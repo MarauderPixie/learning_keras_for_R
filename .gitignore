@@ -37,3 +37,12 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+
+##############################
+## manually added stuff
+## 
+
+# I don't know if I can share the data/labels, 
+# so I'd rather not for now
+/few-shot/*
